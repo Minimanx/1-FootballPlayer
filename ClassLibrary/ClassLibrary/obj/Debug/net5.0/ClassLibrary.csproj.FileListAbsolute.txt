@@ -1,0 +1,12 @@
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.deps.json
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.dll
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\bin\Debug\net5.0\ClassLibrary.pdb
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.AssemblyInfo.cs
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.dll
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ref\ClassLibrary.dll
+C:\Users\Johan\Dropbox\Skole\Temp\Obligatorisk Opgave1\ClassLibrary\ClassLibrary\obj\Debug\net5.0\ClassLibrary.pdb
